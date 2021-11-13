@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+
 
 class Translation(object):
     
@@ -10,7 +10,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/JNS_BOTS">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
+<b>🍒 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 🍒</b> <a href="https://t.me/cp_renegade">RENEGADES</a>
 </i>"""    
     
     HELP_TEXT = """
@@ -44,19 +44,19 @@ For More Details Click Help Button Below..
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
 
 
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>        
+<b>🍒 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 🍒</b> <a href="https://t.me/cp_renegade">RENEGADES</a>        
 """
     
     ABOUT_TEXT = """
-🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/JNS_AUTOFILTER_BOT">JNS AUTOFILTER BOT</a>
+🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/cprenegade_bot">Chikku</a>
 
-📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
+📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/cp_renegade">RENEGADES</a>
 
-👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/jintons">JINTO NS</a>❤
+
 
 📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : <a href="https://www.python.org/">Python3</a>
 
-✨𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href="https://t.me/githubsoursecode">CLICK</a>
 
-📮 𝗙𝗥𝗔𝗠𝗘𝗪𝗢𝗥𝗞 : <a href="https://github.com/pyrogram/pyrogram">PYROGRAM</a>
+
+📞𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗨𝘀: <a href="https://t.me/renegadesfeedback_bot">FEEDBACK</a>
 """
